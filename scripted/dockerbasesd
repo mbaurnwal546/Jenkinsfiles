@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=gdbA3vR2eDs&t=900s
+
 node('master'){
     // Add maven to path
     env.PATH = "/opt/maven3/bin/:$PATH"
